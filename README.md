@@ -1,2 +1,2 @@
 # ProgramaWeb
-Repositório da matéria progamação web
+Repositório da matéria programação web
